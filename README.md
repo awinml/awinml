@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![](https://komarev.com/ghpvc/?username=awinml&color=green&style=for-the-badge&label=Profile+Views)
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=awinml&count_private=true&show_icons=true&hide_rank=true&include_all_commits=true)]()-->
+-->
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=awinml&count_private=true&show_icons=true&hide_rank=true&include_all_commits=true)]()
