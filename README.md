@@ -1,6 +1,6 @@
 ### Hi there, I'm Ashwin!!
 
-I enjoy solving complex problems. My background in Statistics and Data Science enables me to draw meaningful conclusions that helps generate value quickly.
+I love to solve complex problems using Data Science. I have recently started contributing to the Machine Learning open-source community. I am passionate about Natural Language Processing and its applications.
 
 - 🔭 I’m currently a final year Masters Student studying Data Science.
 - 🌱 I’m currently learning how to use NLP to build useful applications.
