@@ -4,6 +4,8 @@ I love to solve complex problems using Data Science. I have recently started con
 
 - 🔭 I’m currently a final year Masters Student studying Data Science.
 - 🌱 I’m currently learning how to use NLP to build useful applications.
+- Contributions to the sckit-learn library:
+[Merged PRs](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+is%3Aclosed+author%3Aawinml)
 - 📫 Feel free to reach out to me: 
 
 <a href="https://www.linkedin.com/in/ashwin-mathur-ds/"><img src="https://img.shields.io/badge/LinkedIn-Ashwin-blue" alt="LinkedIn" href="https://www.linkedin.com/in/ashwin-mathur-ds/"></a>
