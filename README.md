@@ -10,6 +10,12 @@ I love to solve complex problems using Data Science. I have recently started con
 
 <a href="https://www.linkedin.com/in/ashwin-mathur-ds/"><img src="https://img.shields.io/badge/LinkedIn-Ashwin-blue" alt="LinkedIn" href="https://www.linkedin.com/in/ashwin-mathur-ds/"></a>
 
+<!--
+  Title: Ashwin Mathur Github
+  Description: Data Science - Ashwin Mathur Github
+  Author: awinml
+  -->
+
 
 <!--
 **awinml/awinml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
