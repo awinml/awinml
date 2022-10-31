@@ -6,7 +6,7 @@ I love to solve complex problems using Data Science. I have recently started con
 - 🌱 I’m currently learning how to use NLP to build useful applications.
 - Open Source Contributions:
   - **[sckit-learn](https://github.com/scikit-learn/scikit-learn/) :** [Merged PRs](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+is%3Aclosed+author%3Aawinml)
-  - **[imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) :** [Merged PRs](https://github.com/scikit-learn-contrib/imbalanced-learn/pulls?q=is%3Apr+is%3Aclosed+author%3Aawinml)
+ <!-- - **[imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) :** [Merged PRs](https://github.com/scikit-learn-contrib/imbalanced-learn/pulls?q=is%3Apr+is%3Aclosed+author%3Aawinml)-->
 - 📫 Feel free to reach out to me: 
 
 <a href="https://www.linkedin.com/in/ashwin-mathur-ds/"><img src="https://img.shields.io/badge/LinkedIn-Ashwin-blue" alt="LinkedIn" href="https://www.linkedin.com/in/ashwin-mathur-ds/"></a>
