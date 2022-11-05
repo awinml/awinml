@@ -5,7 +5,7 @@ I love to solve complex problems using Data Science. I have recently started con
 - 🔭 I’m currently a final year Masters Student studying Data Science.
 - 🌱 I’m currently learning how to use NLP to build useful applications.
 - Open Source Contributions:
-  - **[sckit-learn](https://github.com/scikit-learn/scikit-learn/) :** [Merged PRs](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+is%3Aclosed+author%3Aawinml)
+  - **[sckit-learn](https://github.com/scikit-learn/scikit-learn/) :** [Merged PRs](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Acomments-desc)
  <!-- - **[imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) :** [Merged PRs](https://github.com/scikit-learn-contrib/imbalanced-learn/pulls?q=is%3Apr+is%3Aclosed+author%3Aawinml)-->
 - 📫 Feel free to reach out to me: 
 
