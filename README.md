@@ -1,6 +1,8 @@
 ### Hi there, I'm Ashwin!!
 
-I love to solve complex problems using Data Science. I have recently started contributing to the Machine Learning open-source community. I am passionate about Natural Language Processing and its applications.
+My interests lie in Natural Language Processing and its applications. 
+
+I recently began contributing to the Machine Learning open-source community. It allows me to work in a collaborative environment and provides a fantastic learning experience. The idea that a small contribution can generate large impact almost instantly is what motivates me to contribute.
 
 - 🔭 I’m currently a final year Masters Student studying Data Science.
 - 🌱 I’m currently learning how to use NLP to build useful applications.
@@ -9,7 +11,7 @@ I love to solve complex problems using Data Science. I have recently started con
  <!-- - **[imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) :** [Merged PRs](https://github.com/scikit-learn-contrib/imbalanced-learn/pulls?q=is%3Apr+is%3Aclosed+author%3Aawinml)-->
 - 📫 Feel free to reach out to me: 
 
-<a href="https://www.linkedin.com/in/ashwin-mathur-ds/"><img src="https://img.shields.io/badge/LinkedIn-Ashwin-blue" alt="LinkedIn" href="https://www.linkedin.com/in/ashwin-mathur-ds/"></a>
+  - <a href="https://www.linkedin.com/in/ashwin-mathur-ds/"><img src="https://img.shields.io/badge/LinkedIn-Ashwin-blue" alt="LinkedIn" href="https://www.linkedin.com/in/ashwin-mathur-ds/"></a>
 
 
 
