@@ -8,7 +8,7 @@ I recently began contributing to the Data Science open-source community. Contrib
 - 🌱 I’m currently learning how to use NLP to build useful applications.
 - Open Source Contributions:
   - **[sckit-learn](https://github.com/scikit-learn/scikit-learn/) :** [Merged PRs](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Acomments-desc)
-  -  **[ huggingface/evaluate ](https://github.com/huggingface/evaluate) :** [Merged PRs](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Acomments-desc)
+  -  **[ huggingface/evaluate ](https://github.com/huggingface/evaluate) :** [Merged PRs](https://github.com/huggingface/evaluate/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Acomments-desc)
 
 
  <!-- - **[imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) :** [Merged PRs](https://github.com/scikit-learn-contrib/imbalanced-learn/pulls?q=is%3Apr+is%3Aclosed+author%3Aawinml)-->
