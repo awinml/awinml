@@ -1,8 +1,12 @@
 ### Hi there, I'm Ashwin Mathur!!
 
-I am a final year postgraduate student currently pursuing a Masters in Data Science from Fergusson College, Pune. I am skilled in Machine Learning and applications of Deep Learning in Natural Language Processing and Computer Vision.
+I am a final year postgraduate student currently pursuing a Masters in Data Science from Fergusson College, Pune. 
 
-I am an active contributor to multiple popular ML open-source projects like Scikit-learn, Keras and HuggingFace. Due to the large number of users of these projects, these contributions generate a large impact almost instantly.
+I am skilled in Machine Learning and applications of Deep Learning in Natural Language Processing and Computer Vision. Some of my projects can found pinned below.
+
+I am an active contributor to multiple popular ML open-source projects like Scikit-learn, Keras and HuggingFace. 
+
+Due to the large number of users of these projects, these contributions generate a large impact almost instantly.
 Contributing allows me to work in a collaborative environment and provides a fantastic learning experience. 
 
 - Open Source Contributions:
