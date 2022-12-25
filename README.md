@@ -2,20 +2,32 @@
 
 I am a final year postgraduate student currently pursuing a Masters in Data Science from Fergusson College, Pune. 
 
-I am skilled in Machine Learning and applications of Deep Learning in Natural Language Processing and Computer Vision. Some of my projects can found pinned below.
+I am skilled in Machine Learning and applications of Deep Learning to Natural Language Processing and Computer Vision. Some of the projects that I have worked on are:
 
-I am an active contributor to multiple popular ML open-source projects like Scikit-learn, Keras and HuggingFace. 
+- **[American Express - Credit Default Classification:](https://github.com/awinml/amex-default-classification)**
+ Built a classification model to predict the probability that a customer defaults on their credit, based on 5.5 million records and 191 anonymized features, using the data provided by American Express.
 
-Due to the large number of users of these projects, these contributions generate a large impact almost instantly.
-Contributing allows me to work in a collaborative environment and provides a fantastic learning experience. 
+- **[H&M - Personalized Product Recommendations:](https://github.com/awinml/hm-recsys)**
+ Designed a product recommendation system to recommend products for customers based on 31.8 million user transactions using the data provided by H&M.
 
-- Open Source Contributions:
+- **[Jigsaw - Multilingual Toxic Comment Classification:](https://github.com/awinml/jigsaw-toxic-comment-clf)**
+ Built a multilingual text classification model to predict the probability that a comment is toxic, based on 4,35,775 text comments in 7 different languages, using the data provided by Google Jigsaw.
+
+- **[Sports Image Classification:](https://github.com/awinml/sports-image-classification)**
+ Built an image classification model and Streamlit App to predict the sport that is being represented in an image, using a collection of images representing 100 different types of Sports and Activities.
+
+I am an active contributor to multiple popular ML open-source projects like Scikit-learn, Keras and HuggingFace. Contributing allows me to work in a collaborative environment and provides a fantastic learning experience. 
+
+Open Source Contributions:
   - **[sckit-learn](https://github.com/scikit-learn/scikit-learn/) :** [Merged PRs](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Acomments-desc)
   -  **[ huggingface/evaluate ](https://github.com/huggingface/evaluate) :** [Merged PRs](https://github.com/huggingface/evaluate/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Acomments-desc)
 
 
  <!-- - **[imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) :** [Merged PRs](https://github.com/scikit-learn-contrib/imbalanced-learn/pulls?q=is%3Apr+is%3Aclosed+author%3Aawinml)-->
-- 📫 Feel free to reach out to me:  &nbsp;  <a href="https://www.linkedin.com/in/ashwin-mathur-ds/"><img src="https://img.shields.io/badge/LinkedIn-Ashwin-blue" alt="LinkedIn" href="https://www.linkedin.com/in/ashwin-mathur-ds/"></a>
+Feel free to reach out to me:  &nbsp;
+
+<a href="https://www.linkedin.com/in/ashwin-mathur-ds/"><img src="https://img.shields.io/badge/LinkedIn-Ashwin-blue" alt="LinkedIn" href="https://www.linkedin.com/in/ashwin-mathur-ds/"></a>
+<a href="mailto:ashwinm400@gmail.com"><img src="https://img.shields.io/badge/Email-ashwinm400%40gmail.com-orange" alt="Email" href="mailto:ashwinm400@gmail.com"></a>
 
 
 
