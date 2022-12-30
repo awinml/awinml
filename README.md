@@ -2,7 +2,12 @@
 
 I am a final year postgraduate student currently pursuing a Masters in Data Science from Fergusson College, Pune. 
 
+I am interested in working on Researching and implementing Artificial Intelligence, Natural Language Processing and Machine Learning solutions, with applications to the finance domain.
+
 I am skilled in Machine Learning and applications of Deep Learning to Natural Language Processing and Computer Vision. Some of the projects that I have worked on are:
+
+- **[Financial Dashboard for Market Intelligence:](https://github.com/awinml/financial-market-intelligence)**
+ Built an end-to-end financial dashboard that collects and consolidates all of a business's critical observations in one place using the information obtained from the annual 10-K SEC Filings.
 
 - **[American Express - Credit Default Classification:](https://github.com/awinml/amex-default-classification)**
  Built a classification model to predict the probability that a customer defaults on their credit, based on 5.5 million records and 191 anonymized features, using the data provided by American Express.
@@ -16,8 +21,6 @@ I am skilled in Machine Learning and applications of Deep Learning to Natural La
 - **[Sports Image Classification:](https://github.com/awinml/sports-image-classification)**
  Built an image classification model and Streamlit App to predict the sport that is being represented in an image, using a collection of images representing 100 different types of Sports and Activities.
  
- - **[Financial Dashboard for Market Intelligence:](https://github.com/awinml/financial-market-intelligence)**
- Built an end-to-end financial dashboard that collects and consolidates all of a business's critical observations in one place using the information obtained from the annual 10-K SEC Filings.
 
 I am an active contributor to multiple popular ML open-source projects like Scikit-learn, Keras and HuggingFace. Contributing allows me to work in a collaborative environment and provides a fantastic learning experience. 
 
