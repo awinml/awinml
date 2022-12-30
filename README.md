@@ -2,7 +2,7 @@
 
 I am a final year postgraduate student currently pursuing a Masters in Data Science from Fergusson College, Pune. 
 
-I am interested in working on Researching and implementing Artificial Intelligence, Natural Language Processing and Machine Learning solutions, with applications to the finance domain.
+I am interested in working on researching and implementing Natural Language Processing and Machine Learning solutions, with applications to the finance domain.
 
 I am skilled in Machine Learning and applications of Deep Learning to Natural Language Processing and Computer Vision. Some of the projects that I have worked on are:
 
