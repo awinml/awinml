@@ -25,8 +25,8 @@ I am skilled in Machine Learning and applications of Deep Learning to Natural La
 I am an active contributor to multiple popular ML open-source projects like Scikit-learn, Keras and HuggingFace. Contributing allows me to work in a collaborative environment and provides a fantastic learning experience. 
 
 Open Source Contributions:
-  - **[sckit-learn](https://github.com/scikit-learn/scikit-learn/) :** [Merged PRs](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Acomments-desc)
-  -  **[ huggingface/evaluate ](https://github.com/huggingface/evaluate) :** [Merged PRs](https://github.com/huggingface/evaluate/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Acomments-desc)
+  - **[scikit-learn](https://github.com/scikit-learn/scikit-learn/) :** [Merged PRs](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Acomments-desc)
+  -  **[huggingface/evaluate](https://github.com/huggingface/evaluate) :** [Merged PRs](https://github.com/huggingface/evaluate/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Acomments-desc)
 
 
  <!-- - **[imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) :** [Merged PRs](https://github.com/scikit-learn-contrib/imbalanced-learn/pulls?q=is%3Apr+is%3Aclosed+author%3Aawinml)-->
