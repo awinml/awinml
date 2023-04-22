@@ -32,7 +32,7 @@ I am an active contributor to multiple popular ML open-source projects like Scik
 
 
  <!-- - **[imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) :** [Merged PRs](https://github.com/scikit-learn-contrib/imbalanced-learn/pulls?q=is%3Apr+is%3Aclosed+author%3Aawinml)-->
-Feel free to reach out to me:  &nbsp;
+I'm best reached via Email or LinkedIn. I'm always open to interesting conversations and collaboration. Feel free to reach out to me:  &nbsp;
 
 <a href="https://www.linkedin.com/in/ashwin-mathur-ds/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn" alt="LinkedIn" href="https://www.linkedin.com/in/ashwin-mathur-ds/"></a>
 <a href="mailto:ashwinm400@gmail.com"><img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=Gmail" alt="Email" href="mailto:ashwinm400@gmail.com"></a>
