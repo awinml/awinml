@@ -1,8 +1,6 @@
 ### Hi there, I'm Ashwin Mathur!!
 
-- AI Research Engineer with expertise in the enhancement and development of applications based on Large Language Models (LLMs).
-
-- Interested in working on researching and implementing Natural Language Processing and Machine Learning solutions, with applications to the finance domain.
+- AI Research Engineer with expertise in the enhancement and development of applications based on Large Language Models (LLMs). Interested in working on researching and implementing Natural Language Processing and Machine Learning solutions, with applications to the finance domain.
 
 - Skilled in Machine Learning and applications of Deep Learning to Natural Language Processing and Computer Vision. Some of the projects that I have worked on are:
 
