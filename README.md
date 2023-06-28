@@ -29,11 +29,10 @@
   -  **[huggingface/evaluate](https://github.com/huggingface/evaluate) :** [Merged PRs](https://github.com/huggingface/evaluate/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Acomments-desc)
 
 
- <!-- - **[imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) :** [Merged PRs](https://github.com/scikit-learn-contrib/imbalanced-learn/pulls?q=is%3Apr+is%3Aclosed+author%3Aawinml)-->
 I'm best reached via Email or LinkedIn. I'm always open to interesting conversations and collaboration. Feel free to reach out to me:  &nbsp;
 
 <a href="https://www.linkedin.com/in/ashwin-mathur-ds/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn" alt="LinkedIn" href="https://www.linkedin.com/in/ashwin-mathur-ds/"></a>
-<a href="mailto:ashwinm400@gmail.com"><img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=Gmail" alt="Email" href="mailto:ashwinm400@gmail.com"></a>
+<a href="mailto:ashwinmathur.business@gmail.com"><img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=Gmail" alt="Email" href="mailto:ashwinmathur.business@gmail.com"></a>
 
 
 
@@ -41,10 +40,7 @@ I'm best reached via Email or LinkedIn. I'm always open to interesting conversat
   Title: Ashwin Mathur Github
   Description: Data Science - Ashwin Mathur Github
   Author: awinml
-  -->
 
-
-<!--
 **awinml/awinml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -58,9 +54,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!--![](https://komarev.com/ghpvc/?username=awinml&color=green&style=for-the-badge&label=Profile+Views)
-
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=awinml&count_private=true&show_icons=true&hide_rank=true&hide=contribs&include_all_commits=true)]()
+
+![](https://komarev.com/ghpvc/?username=awinml&color=green&style=for-the-badge&label=Profile+Views)
 
 -->
 
