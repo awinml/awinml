@@ -1,6 +1,6 @@
 ### Hi there, I'm Ashwin Mathur!!
 
-- AI Research Engineer with expertise in the enhancement and development of applications based on Large Language Models (LLMs). Interested in working on researching and implementing Natural Language Processing and Machine Learning solutions, with applications to the finance domain.
+- NLP Engineer with expertise in the enhancement and development of applications based on Large Language Models (LLMs). Interested in working on researching and implementing Natural Language Processing and Machine Learning solutions.
 
 - Skilled in Machine Learning and applications of Deep Learning to Natural Language Processing and Computer Vision. Some of the projects that I have worked on are:
 
@@ -20,7 +20,7 @@
    Built an image classification model and Streamlit App to predict the sport that is being represented in an image, using a collection of images representing 100 different types of Sports and Activities.
  
 
-- Active contributor to multiple popular ML open-source projects like Scikit-learn, Keras and HuggingFace. Contributing to these projects not only allows me to work in a collaborative environment but also provides an invaluable learning experience.
+- Active contributor to multiple popular ML open-source projects like Scikit-learn and HuggingFace.
 
 **Open Source Contributions**:
   - **[scikit-learn](https://github.com/scikit-learn/scikit-learn/) :** [Merged PRs](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Acomments-desc)
