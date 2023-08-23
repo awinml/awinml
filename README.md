@@ -1,4 +1,4 @@
-### Hi there, I'm Ashwin Mathur!!
+### Hi there, I'm Ashwin Mathur!
 
 - NLP Engineer with expertise in the enhancement and development of applications based on Large Language Models (LLMs). Interested in working on researching and implementing Natural Language Processing and Machine Learning solutions.
 
