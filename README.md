@@ -2,7 +2,7 @@
 
 - NLP Engineer with expertise in the enhancement and development of applications based on Large Language Models (LLMs). Interested in working on researching and implementing Natural Language Processing and Machine Learning solutions.
 
-- Skilled in Machine Learning and applications of Deep Learning to Natural Language Processing and Computer Vision. Some of the projects that I have worked on are:
+- Some of the projects that I have worked on are:
 
   - **[Financial Dashboard for Market Intelligence:](https://github.com/awinml/financial-market-intelligence)**
    Built an end-to-end financial dashboard that collects and consolidates all of a business's critical observations in one place using the information obtained from the annual 10-K SEC Filings.
