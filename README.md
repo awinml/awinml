@@ -20,7 +20,7 @@
    Built an image classification model and Streamlit App to predict the sport that is being represented in an image, using a collection of images representing 100 different types of Sports and Activities.
  
 
-- Active contributor to multiple popular ML open-source projects like Scikit-learn and HuggingFace.
+- Active contributor to open-source projects like Scikit-learn and HuggingFace.
 
 **Open Source Contributions**:
   - **[scikit-learn](https://github.com/scikit-learn/scikit-learn/) :** [Merged PRs](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Acomments-desc)
