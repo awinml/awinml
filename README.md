@@ -1,6 +1,6 @@
 <h2 align="center"> Hi there, I'm Ashwin Mathur!</h1>
 
-- NLP Engineer with expertise in the enhancement and development of applications based on Large Language Models (LLMs). Interested in working on researching and implementing Natural Language Processing and Machine Learning solutions.
+- NLP Engineer with expertise in the enhancement and development of applications based on Large Language Models (LLMs). Interested in working on researching and implementing Natural Language Processing and Machine Learning solutions. Active contributor to open-source projects.
 
 - Some of the projects that I have worked on are:
 
@@ -18,24 +18,22 @@
 
   - **[Sports Image Classification:](https://github.com/awinml/sports-image-classification)**
    Built an image classification model and Streamlit App to predict the sport that is being represented in an image, using a collection of images representing 100 different types of Sports and Activities.
- 
 
-- Active contributor to open-source projects like Scikit-learn and HuggingFace.
 
 **Open Source Contributions**:
-  - **[scikit-learn](https://github.com/scikit-learn/scikit-learn/) :** [Merged PRs](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Acomments-desc)
-  - **[imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) :** [Merged PRs](https://github.com/scikit-learn-contrib/imbalanced-learn/pulls?q=is%3Apr+is%3Aclosed+author%3Aawinml)
-  -  **[huggingface/transformers](https://github.com/huggingface/transformers) :** [Merged PRs](https://github.com/huggingface/transformers/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Acomments-desc) 
-  -  **[huggingface/evaluate](https://github.com/huggingface/evaluate) :** [Merged PRs](https://github.com/huggingface/evaluate/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Acomments-desc)
-
+  - **[deepset-ai/haystack](https://github.com/deepset-ai/haystack/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Acomments-desc)**
+  - **[deepset-ai/haystack-core-integrations](https://github.com/deepset-ai/haystack-core-integrations/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Acomments-desc)**
+  - **[huggingface/transformers](https://github.com/huggingface/transformers/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Acomments-desc)**
+  - **[huggingface/evaluate](https://github.com/huggingface/evaluate/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Acomments-desc)**
+  - **[scikit-learn](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Acomments-desc)**
+  - **[imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn/pulls?q=is%3Apr+is%3Aclosed+author%3Aawinml)**
 
 I'm best reached via Email or LinkedIn. I'm always open to interesting conversations and collaboration. 
 
 Feel free to reach out to me:  &nbsp;
 
-<a href="https://www.linkedin.com/in/ashwin-mathur-ds/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn" alt="LinkedIn" href="https://www.linkedin.com/in/ashwin-mathur-ds/"></a>
 <a href="mailto:ashwinmathur.business@gmail.com"><img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=Gmail" alt="Email" href="mailto:ashwinmathur.business@gmail.com"></a>
-
+<a href="https://www.linkedin.com/in/ashwin-mathur-ds/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn" alt="LinkedIn" href="https://www.linkedin.com/in/ashwin-mathur-ds/"></a>
 
 
 <!--
