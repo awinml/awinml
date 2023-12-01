@@ -2,18 +2,6 @@
 
 - NLP Engineer with expertise in the development of applications based on Large Language Models (LLMs). Interested in working on implementing Natural Language Processing solutions. Active contributor to open-source projects.
 
-- Some of the projects that I have worked on are:
-
-  - **[Financial Dashboard for Market Intelligence:](https://github.com/awinml/financial-market-intelligence)**
-   Built an end-to-end financial dashboard that collects and consolidates all of a business's critical observations in one place using the information obtained from the annual 10-K SEC Filings.
-
-  - **[Jigsaw - Multilingual Toxic Comment Classification:](https://github.com/awinml/jigsaw-toxic-comment-clf)**
-   Built a multilingual text classification model to predict the probability that a comment is toxic, based on 4,35,775 text comments in 7 different languages, using the data provided by Google Jigsaw.
-
-  - **[American Express - Credit Default Classification:](https://github.com/awinml/amex-default-classification)**
-   Built a classification model to predict the probability that a customer defaults on their credit, based on 5.5 million records and 191 anonymized features, using the data provided by American Express.
-
-
 **Open Source Contributions**:
   - **[Haystack](https://github.com/deepset-ai/haystack)**: [deepset-ai/haystack](https://github.com/deepset-ai/haystack/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Acomments-desc), [deepset-ai/haystack-core-integrations](https://github.com/deepset-ai/haystack-core-integrations/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Acomments-desc)
   - **[HuggingFace](https://github.com/huggingface)**: [huggingface/transformers](https://github.com/huggingface/transformers/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Acomments-desc), [huggingface/evaluate](https://github.com/huggingface/evaluate/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Acomments-desc)
