@@ -1,6 +1,6 @@
 <h2 align="center"> Hi there, I'm Ashwin Mathur!</h2>
 
-- NLP Engineer with expertise in the development of applications based on Large Language Models (LLMs). Interested in working on implementing Natural Language Processing solutions. Active contributor to open-source projects.
+NLP Engineer with expertise in the development of applications based on Large Language Models (LLMs). Interested in working on implementing Natural Language Processing solutions. Active contributor to open-source projects.
 
 **Open Source Contributions**:
   - **[Haystack](https://github.com/deepset-ai/haystack)**: [deepset-ai/haystack](https://github.com/deepset-ai/haystack/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Acomments-desc), [deepset-ai/haystack-core-integrations](https://github.com/deepset-ai/haystack-core-integrations/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Acomments-desc)
