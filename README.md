@@ -1,23 +1,17 @@
 <h2 align="center"> Hi there, I'm Ashwin Mathur!</h2>
 
-- NLP Engineer with expertise in the enhancement and development of applications based on Large Language Models (LLMs). Interested in working on researching and implementing Natural Language Processing solutions. Active contributor to open-source projects.
+- NLP Engineer with expertise in the development of applications based on Large Language Models (LLMs). Interested in working on implementing Natural Language Processing solutions. Active contributor to open-source projects.
 
 - Some of the projects that I have worked on are:
 
   - **[Financial Dashboard for Market Intelligence:](https://github.com/awinml/financial-market-intelligence)**
    Built an end-to-end financial dashboard that collects and consolidates all of a business's critical observations in one place using the information obtained from the annual 10-K SEC Filings.
 
-  - **[American Express - Credit Default Classification:](https://github.com/awinml/amex-default-classification)**
-   Built a classification model to predict the probability that a customer defaults on their credit, based on 5.5 million records and 191 anonymized features, using the data provided by American Express.
-
-  - **[H&M - Personalized Product Recommendations:](https://github.com/awinml/hm-recsys)**
-   Designed a product recommendation system to recommend products for customers based on 31.8 million user transactions using the data provided by H&M.
-
   - **[Jigsaw - Multilingual Toxic Comment Classification:](https://github.com/awinml/jigsaw-toxic-comment-clf)**
    Built a multilingual text classification model to predict the probability that a comment is toxic, based on 4,35,775 text comments in 7 different languages, using the data provided by Google Jigsaw.
 
-  - **[Sports Image Classification:](https://github.com/awinml/sports-image-classification)**
-   Built an image classification model and Streamlit App to predict the sport that is being represented in an image, using a collection of images representing 100 different types of Sports and Activities.
+  - **[American Express - Credit Default Classification:](https://github.com/awinml/amex-default-classification)**
+   Built a classification model to predict the probability that a customer defaults on their credit, based on 5.5 million records and 191 anonymized features, using the data provided by American Express.
 
 
 **Open Source Contributions**:
