@@ -1,6 +1,6 @@
 <h2 align="center"> Hi there, I'm Ashwin Mathur!</h2>
 
-NLP Engineer with expertise in the development of applications using Large Language Models (LLMs). Interested in working on implementing Natural Language Processing solutions. Active contributor to open-source projects.
+NLP Developer with expertise in the development of applications using Large Language Models (LLMs). Interested in working on implementing Natural Language Processing solutions. Active contributor to open-source projects.
 
 Some of the projects I have worked on:
 
