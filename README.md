@@ -2,7 +2,7 @@
 
 NLP Developer with expertise in the development of applications using Large Language Models (LLMs). Interested in working on implementing Natural Language Processing solutions. Active contributor to open-source projects.
 
-Some of the projects I have worked on:
+Some interesting projects I have worked on:
 
 **Open-Ended Question-Answering Pipeline on Earnings Call Transcripts using Generative LLMs:**
 
