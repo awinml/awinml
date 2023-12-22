@@ -13,12 +13,12 @@ Some of the projects I have worked on:
 - Experimented with the SOTA instruction-tuned LLMs for generating answers: Llama-2, Vicuna, Alpaca, Dolly, FLAN-T5 and GPT-3. The Llama-2 and GPT-3 LLMs generated the most accurate and concise answers.
 - Evaluated the generated answers on Coverage, Redundancy, and Hallucination, quantitatively comparing text generation performance while ensuring accuracy.
 
-**Evaluation of LLMs using the EleutherAI LLM Harness and the Effect of Few-Shot Prompting:**
+**Effect of Few-Shot Prompting on LLM Performance and Evaluation using the EleutherAI LLM Harness:**
 
 - Evaluated the generative performance of three language models - OPT, GPTNeo, and Dolly - across benchmark datasets (AI2’s Reasoning Challenge, Adversarial Natural Language Inference, and Winograd Schema Challenge) using various prompt settings: Zero-Shot, One-Shot, Three-Shot, and Five-Shot prompts.
 - Observed that model performance on all the benchmarks linearly scales with an increase in model size and there is a significant increase in performance as the number of few-shot (in-context) examples increases in the prompt.
 
-**Effect of Hyperparameter Tuning and Optimizer Selection on Training Efficiency and LLM Performance:**
+**Effect of Optimizer Selection and Hyperparameter Tuning on Training Efficiency and LLM Performance:**
 
 - Investigated the impact of optimizer selection and associated hyperparameters on model performance during training across diverse tasks.
 - Evaluated the performance of five different optimizers (AdamW, RMSProp, NAG, SGD with Momentum, and SGD) on various natural language processing tasks such as Sentiment Analysis, Question Answering, and Text Summarization. Analyzed the convergence of the best-performing models on each dataset.
