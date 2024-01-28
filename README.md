@@ -1,6 +1,6 @@
 <h2 align="center"> Hi there, I'm Ashwin Mathur!</h2>
 
-NLP Developer with expertise in the development of applications using Large Language Models (LLMs). Interested in working on implementing Natural Language Processing solutions. Active contributor to open-source projects.
+NLP Developer with expertise in the development of applications using Large Language Models (LLMs). Active contributor to open-source projects.
 
 Some interesting projects I have worked on:
 
@@ -31,7 +31,7 @@ Some interesting projects I have worked on:
   - **[HuggingFace](https://github.com/huggingface)**: [huggingface/transformers](https://github.com/huggingface/transformers/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Acomments-desc), [huggingface/evaluate](https://github.com/huggingface/evaluate/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Acomments-desc)
   - **[scikit-learn](https://github.com/scikit-learn)**: [scikit-learn](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Acomments-desc), [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn/pulls?q=is%3Apr+is%3Aclosed+author%3Aawinml)
 
-I'm best reached via Email or LinkedIn. I'm always open to interesting conversations and collaboration. 
+I'm best reached via Email or LinkedIn. Open to interesting conversations and collaboration. 
 
 Feel free to reach out to me:  &nbsp;
 
