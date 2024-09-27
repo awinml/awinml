@@ -28,6 +28,7 @@ Some interesting projects I have worked on:
 
 **Open Source Contributions**:
   - **[Haystack](https://github.com/deepset-ai/haystack)**: [deepset-ai/haystack](https://github.com/deepset-ai/haystack/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Aupdated-desc), [deepset-ai/haystack-core-integrations](https://github.com/deepset-ai/haystack-core-integrations/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Aupdated-desc)
+  - **[MTEB: Massive Text Embedding Benchmark ](https://github.com/embeddings-benchmark/mteb)**: [embeddings-benchmark/mteb](https://github.com/embeddings-benchmark/mteb/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Aupdated-desc)
   - **[HuggingFace](https://github.com/huggingface)**: [huggingface/transformers](https://github.com/huggingface/transformers/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Acomments-desc), [huggingface/evaluate](https://github.com/huggingface/evaluate/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Acomments-desc)
   - **[scikit-learn](https://github.com/scikit-learn)**: [scikit-learn](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Acomments-desc), [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn/pulls?q=is%3Apr+is%3Aclosed+author%3Aawinml)
 
