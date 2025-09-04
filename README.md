@@ -2,7 +2,18 @@
 
 AI Engineer with expertise in the development of applications using Large Language Models (LLMs). Active contributor to open-source projects.
 
-**Open Source Contributions**:
+**Developing Open-Source software - [AVNLP](https://avnlp.github.io/):**
+  - **[BioThink](https://github.com/avnlp/biothink)**:  Self-Reflective Question-Answering for Biomedical Reasoning.
+  - **[LLM-Finetuning](https://github.com/avnlp/llm-finetuning)**: Pipelines for Fine-Tuning LLMs using SFT and RLHF.
+  - **[GRPO](https://github.com/avnlp/grpo)**: Group Relative Policy Optimization (GRPO) Implementations.
+  - **[RAG Pipelines](https://github.com/avnlp/rag-pipelines)**: Advanced RAG Pipelines and Evaluation: Self-Reflective RAG, Corrective RAG, Adaptive RAG, Sub-Query Generation and Routing, DeepEval.
+  - **[DSPy-Opt](https://github.com/avnlp/dspy-opt)**: Advanced RAG Pipelines optimized with DSPy.
+  - **[PRP](https://github.com/avnlp/prp)**: Implementation of Pairwise Ranking Prompting (PRP) technique.
+  - **[Rankers](https://github.com/avnlp/rankers)**: LLM based Pairwise, Setwise, and Listwise rankers.
+  - **[RRF](https://github.com/avnlp/rrf)**: Performance Evaluation of Rankers and RRF Techniques for Retrieval Pipelines.
+  - **[LLM Blender](https://github.com/avnlp/llm-blender)**: Ensembling LLMs using LLM-Blender.
+
+**Open Source Contributions:**
   - **[Haystack](https://github.com/deepset-ai/haystack)**: [deepset-ai/haystack](https://github.com/deepset-ai/haystack/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Aupdated-desc), [deepset-ai/haystack-core-integrations](https://github.com/deepset-ai/haystack-core-integrations/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Aupdated-desc)
   - **[Massive Text Embedding Benchmark (MTEB)](https://github.com/embeddings-benchmark/mteb)**: [embeddings-benchmark/mteb](https://github.com/embeddings-benchmark/mteb/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Aupdated-desc)
   - **[HuggingFace](https://github.com/huggingface)**: [huggingface/transformers](https://github.com/huggingface/transformers/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Acomments-desc), [huggingface/evaluate](https://github.com/huggingface/evaluate/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Acomments-desc)
