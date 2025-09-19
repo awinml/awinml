@@ -6,6 +6,7 @@ AI Engineer with expertise in the development of applications using Large Langua
   - **[BioThink](https://github.com/avnlp/biothink)**:  Self-Reflective Question-Answering for Biomedical Reasoning.
   - **[LLM-Finetuning](https://github.com/avnlp/llm-finetuning)**: Pipelines for Fine-Tuning LLMs using SFT and RLHF.
   - **[GRPO](https://github.com/avnlp/grpo)**: Group Relative Policy Optimization (GRPO) Implementations.
+  - **[RAG-Model-Training](https://github.com/avnlp/rag-model-training)**: Training LLMs for Retrieval Augmented Generation.
   - **[RAG Pipelines](https://github.com/avnlp/rag-pipelines)**: Advanced RAG Pipelines and Evaluation: Self-Reflective RAG, Corrective RAG, Adaptive RAG, Sub-Query Generation and Routing, DeepEval.
   - **[DSPy-Opt](https://github.com/avnlp/dspy-opt)**: Advanced RAG Pipelines optimized with DSPy.
   - **[PRP](https://github.com/avnlp/prp)**: Implementation of Pairwise Ranking Prompting (PRP) technique.
