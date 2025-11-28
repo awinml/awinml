@@ -20,8 +20,6 @@ AI Engineer with expertise in the development of applications using Large Langua
   - **[HuggingFace](https://github.com/huggingface)**: [huggingface/transformers](https://github.com/huggingface/transformers/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Acomments-desc), [huggingface/evaluate](https://github.com/huggingface/evaluate/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Acomments-desc)
   - **[scikit-learn](https://github.com/scikit-learn)**: [scikit-learn](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Acomments-desc), [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn/pulls?q=is%3Apr+is%3Aclosed+author%3Aawinml)
 
-I'm best reached via Email or LinkedIn. Open to interesting conversations and collaboration. 
-
 Feel free to reach out to me:  &nbsp;
 
 <a href="mailto:ashwinmathur.business@gmail.com"><img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=Gmail" alt="Email" href="mailto:ashwinmathur.business@gmail.com"></a>
