@@ -6,13 +6,14 @@ AI Engineer with expertise in the development of applications using Large Langua
   - **[BioThink](https://github.com/avnlp/biothink)**:  Self-Reflective Question-Answering for Biomedical Reasoning.
   - **[LLM-Finetuning](https://github.com/avnlp/llm-finetuning)**: Pipelines for Fine-Tuning LLMs using SFT and RLHF.
   - **[GRPO](https://github.com/avnlp/grpo)**: Group Relative Policy Optimization (GRPO) Implementations.
-  - **[RAG-Model-Training](https://github.com/avnlp/rag-model-training)**: Training LLMs for Retrieval Augmented Generation.
-  - **[RAG Pipelines](https://github.com/avnlp/rag-pipelines)**: Advanced RAG Pipelines and Evaluation: Self-Reflective RAG, Corrective RAG, Adaptive RAG, Sub-Query Generation and Routing, DeepEval.
-  - **[DSPy-Opt](https://github.com/avnlp/dspy-opt)**: Advanced RAG Pipelines optimized with DSPy.
-  - **[PRP](https://github.com/avnlp/prp)**: Implementation of Pairwise Ranking Prompting (PRP) technique.
-  - **[Rankers](https://github.com/avnlp/rankers)**: LLM based Pairwise, Setwise, and Listwise rankers.
-  - **[RRF](https://github.com/avnlp/rrf)**: Performance Evaluation of Rankers and RRF Techniques for Retrieval Pipelines.
-  - **[LLM Blender](https://github.com/avnlp/llm-blender)**: Ensembling LLMs using LLM-Blender.
+  - **[RAG-Model-Training](https://github.com/avnlp/rag-model-training)**: Training code for advanced RAG techniques - Adaptive-RAG, Corrective RAG, RQ-RAG, Self-RAG, Agentic RAG, and ReZero. Reproduces paper methodologies to fine-tune LLMs via SFT and GRPO for adaptive retrieval, corrective evaluation, query refinement, self-reflection, and agentic search behaviors.
+  - **[RAG Pipelines](https://github.com/avnlp/rag-pipelines)**: Advanced Agentic RAG Pipelines and Evaluation
+  - **[VectorDB](https://github.com/avnlp/vectordb)**: Production-ready Haystack/LangChain pipelines for Hybrid & Parent-Child Retrieval, Diversity Filtering, MMR, Metadata Filtering, Reranking, Query Enhancement, Multi-Tenancy, Agentic RAG across Pinecone, Weaviate, Milvus, Qdrant, Chroma with dataset loaders, evaluation tooling, and benchmarks for TriviaQA, ARC, PopQA, FactScore and Earnings Calls. 
+  - **[DSPy-Opt](https://github.com/avnlp/dspy-opt)**: Advanced RAG pipeline optimization framework using DSPy. Implements modular RAG pipelines with Query-Rewriting, Sub-Query Decomposition, and Hybrid Search via Weaviate. Automates prompt tuning and few-shot selection using MIPRO, COPRO, and BootstrapFewShot optimizers on datasets like FreshQA, HotpotQA, TriviaQA, Wikipedia and PubMedQA. .
+  - **[PRP](https://github.com/avnlp/prp)**: Zero-shot LLM reranking library implementing efficient pairwise strategies (Heapsort, Sliding Window, All-Pairs). Mitigates position bias via bidirectional comparison and ensures reliability with structured Pydantic validation. Built for Haystack pipelines. 
+  - **[Rankers](https://github.com/avnlp/rankers)**: Modular LLM ranking library for Information Retrieval and RAG. Implements state-of-the-art Pairwise, Setwise, and Listwise ranking with structured generation and specialized models (RankZephyr, RankLlama). Features efficient sorting algorithms, sliding windows, and zero-shot capabilities. 
+  - **[RRF](https://github.com/avnlp/rrf)**: Performance Evaluation of Rankers and RRF Techniques for Retrieval Pipelines: Employs Diversity, Lost-in-the-Middle, and Similarity rankers to reorder documents and maximize LLM context window performance. Implements Hybrid Retrieval with Reciprocal Rank Fusion (RRF) and rigorous BEIR evaluation (NDCG, MAP, Recall, Precision).
+  - **[LLM Blender](https://github.com/avnlp/llm-blender)**: Ensembling framework that maximizes LLM performance via pairwise ranking. Employs PairRanker to rank candidates and GenFuser to merge outputs, generating superior responses by combining the diverse strengths of multiple open-source models. 
 
 **Open Source Contributions:**
   - **[Haystack](https://github.com/deepset-ai/haystack)**: [deepset-ai/haystack](https://github.com/deepset-ai/haystack/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Aupdated-desc), [deepset-ai/haystack-core-integrations](https://github.com/deepset-ai/haystack-core-integrations/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Aupdated-desc), [Voyage Haystack Integration](https://github.com/awinml/voyage-embedders-haystack)
