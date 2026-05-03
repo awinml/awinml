@@ -8,46 +8,44 @@
 [Email](mailto:ashwinmathur.business@gmail.com)
 </div>
 
-I work on LLM systems for domain-specific applications in Finance, Bio-Medical, and Legal AI, spanning retrieval, agents and model training. I’ve contributed to Haystack, MTEB, HuggingFace, and scikit-learn, and co-authored **[MMTEB](https://arxiv.org/abs/2502.13595)**, published at ICLR 2025. Developing open-source AI at [**AVNLP**](https://avnlp.github.io/).
+I work on LLM systems for domain-specific applications in Finance, Bio-Medical, and Legal AI, spanning retrieval, agents and model training. I've contributed to Haystack, MTEB, HuggingFace, and scikit-learn, and co-authored **[MMTEB](https://arxiv.org/abs/2502.13595)**, published at ICLR 2025. Developing open-source AI at [**AVNLP**](https://avnlp.github.io/).
 
 ### Developing Open-Source AI @ [AVNLP](https://avnlp.github.io/)
 
-#### LLM Training & Alignment
+#### LLM Training & RL Alignment
 
 | Repository | Description |
 |---|---|
-| [**BioThink**](https://github.com/avnlp/biothink) | Self-Reflective Bio-Medical Question Answering system - trains Qwen3-1.7B with QLoRA + GRPO using 5 custom reward functions (Relevance, Grounding, Utility token enforcement + XML structure + GEval correctness); evaluated across 7 metrics including faithfulness and answer correctness via LLM-as-a-Judge. |
-| [**LLM-Finetuning**](https://github.com/avnlp/llm-finetuning) | Fine-tuning pipelines covering SFT, DPO, ORPO, KTO, and PPO; comparative benchmarking of QLoRA, LoRA, DoRA, P-Tuning, and Prefix-Tuning across ARC, FactScore, TriviaQA, and PopQA. |
-| [**GRPO**](https://github.com/avnlp/grpo) | GRPO implementations comparing reward functions (format/correctness), training frameworks (DeepSpeed and PyTorch), and reference-model handling strategies. |
-| [**RAG-Model-Training**](https://github.com/avnlp/rag-model-training) | Fine-tuning LLMs for 6 RAG paradigms - Adaptive-RAG, Corrective RAG, RQ-RAG, Self-RAG, Agentic RAG, ReZero - via SFT and GRPO; uses Llama-3.2, and Llama-3-8B across finance, biomedical, and open-domain QA datasets. |
+| [**BioThink**](https://github.com/avnlp/biothink) | Self-Reflective Bio-Medical QA training with QLoRA + GRPO to generate structured self-reflection tokens using six reward functions; evaluated across seven metrics via LLM-as-a-Judge. |
+| [**RAG Model Training**](https://github.com/avnlp/rag-model-training) | Fine-tuning LLMs for Adaptive-RAG, Corrective RAG, RQ-RAG, Self-RAG, Agentic RAG, and ReZero via SFT and GRPO across finance, biomedical, and open-domain QA. |
+| [**GRPO**](https://github.com/avnlp/grpo) | Four GRPO implementations comparing format/correctness rewards, DeepSpeed vs. PyTorch training, frozen/server/periodic reference models, and vLLM vs. Transformers rollout generation. |
+| [**LLM Finetuning**](https://github.com/avnlp/llm-finetuning) | SFT, DPO, KTO, ORPO, PPO, and GRPO pipelines with QLoRA/LoRA/DoRA/P-Tuning/Prefix-Tuning adapter training across ARC, FactScore, TriviaQA, PopQA, Earnings Calls, and GSM8K. |
 
-#### Retrieval-Augmented Generation
+#### Retrieval Augmented Generation and Agents
 
 | Repository | Description |
 |---|---|
-| [**RAG-Pipelines**](https://github.com/avnlp/rag-pipelines) | Agentic RAG pipelines with metadata enrichment, contextual reranking and structured generation. |
-| [**DSPy-Optimizers**](https://github.com/avnlp/dspy-opt) | DSPy-based RAG optimization framework using MIPRO, COPRO, and BootstrapFewShot on FreshQA, HotpotQA, TriviaQA, PubMedQA. |
-| [**VectorDB**](https://github.com/avnlp/vectordb) | Production Haystack and LangChain pipelines for Hybrid Search, Parent-Child Retrieval, MMR, Metadata Filtering, Multi-Tenancy, and Re-ranking across Pinecone, Weaviate, Milvus, Qdrant, and Chroma - with benchmarks on TriviaQA, ARC, PopQA, FactScore, and Earnings Calls. |
+| [**RAG Pipelines**](https://github.com/avnlp/rag-pipelines) | Domain-specific RAG pipelines combining LangGraph orchestration, BAML structured generation, Milvus Hybrid Search, 3-layer metadata enrichment, and instruction-following rerankers for Medical and Financial QA. |
+| [**DSPy Optimizers**](https://github.com/avnlp/dspy-opt) | DSPy RAG optimization with Weaviate Hybrid Search, Query Rewriting, Sub-Query Decomposition using MIPROv2/COPRO/BootstrapFewShot optimizers on FreshQA, HotpotQA, TriviaQA, and PubMedQA. |
+| [**VectorDB**](https://github.com/avnlp/vectordb) | Haystack and LangChain retrieval pipelines spanning Dense/Sparse/Hybrid search, Reranking, Parent-Child Retrieval, Query Enhancement, and Multi-Tenancy across Pinecone, Weaviate, Milvus, Qdrant, and Chroma. |
 
 #### Information Retrieval & Ranking
 
 | Repository | Description |
 |---|---|
-| [**LLM Rankers**](https://github.com/avnlp/rankers) | LLM re-ranking library for IR and RAG. Implements Pairwise, Setwise, and Listwise ranking with RankZephyr and RankLlama; supports sliding windows, efficient sorting, and zero-shot inference. |
-| [**Pairwise Ranking Prompting**](https://github.com/avnlp/prp) | Zero-shot pairwise reranking library (Heapsort, Sliding Window, All-Pairs strategies) with bidirectional comparison for position-bias mitigation; Pydantic-validated. |
-| [**Reciprocal Rank Fusion and LLM Rankers**](https://github.com/avnlp/rrf) | Hybrid retrieval with Reciprocal Rank Fusion (RRF); evaluates Diversity, Lost-in-the-Middle, and Similarity rankers against the BEIR suite (NDCG, MAP, Recall, Precision). |
-| [**LLM-Blender**](https://github.com/avnlp/llm-blender) | Ensembling framework combining PairRanker (pairwise ranking) and GenFuser (output merging) to synthesize superior responses from multiple open-source models. |
+| [**LLM Rankers**](https://github.com/avnlp/rankers) | LLM rankers using Pairwise, Setwise, and Listwise techniques with RankZephyr/RankLlama, Pydantic-validated structured generation, and efficient zero-shot sorting. |
+| [**Pairwise Ranking Prompting**](https://github.com/avnlp/prp) | Zero-shot pairwise reranking with All-Pairs, Heapsort, and Sliding-K strategies, using bidirectional comparison for position-bias mitigation and Pydantic-validated outputs. |
+| [**Reciprocal Rank Fusion and LLM Rankers**](https://github.com/avnlp/rrf) | Hybrid retrieval combining Reciprocal Rank Fusion with Diversity, Lost-in-the-Middle, and Similarity rankers, evaluated on BEIR (NDCG, MAP, Recall, Precision). |
+| [**LLM Blender**](https://github.com/avnlp/llm-blender) | LLM ensembling framework using PairRanker for cross-attention candidate ranking and GenFuser for top-K output fusion, packaged as a Haystack component. |
 
 ### Open-Source Contributions
 
-| Project | Contributions |
-|---|---|
-| **[Haystack](https://github.com/deepset-ai/haystack/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Aupdated-desc)** | **Evaluation Framework**: Designed and built Haystack's pipeline evaluation from scratch - `StatisticalEvaluator`, `EvaluationResult`, and six metrics: Exact Match, F1, Semantic Answer Similarity, Recall, MRR, and MAP<br>**HuggingFace TEI Embedders**: Components supporting self-hosted Docker, free Inference API, and paid HF Inference Endpoints<br>**Diversity Ranker**: Document reranker optimizing for maximum semantic diversity via sentence-transformer embeddings |
-| **[Haystack Core Integrations](https://github.com/deepset-ai/haystack-core-integrations/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Aupdated-desc)** | **INSTRUCTOR Embedders**: Task- and domain-specific embedding components with instructable prompt prefixes<br>**HF Optimum**: Embedding inference with ONNX and TensorRT runtimes<br>**Llama.cpp Generator**: Text generation with quantized models<br>**Pinecone**: Vector DB integration with advanced metadata filtering |
-| **[voyage-embedders-haystack](https://github.com/awinml/voyage-embedders-haystack)** | Haystack integration for Voyage AI embedding and reranking models |
-| **[MTEB](https://github.com/embeddings-benchmark/mteb/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Aupdated-desc)** | **LegalBench**: Added the complete LegalBench benchmark suite - 160+ legal domain classification and retrieval datasets; Integrated Japanese embedding benchmarks JMTEB and JSICK.  |
-| **[HuggingFace Transformers](https://github.com/huggingface/transformers/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Acomments-desc)** | `BioGPTForSequenceClassification` implementation; ViT pre-training scripts without the Trainer class; HuggingFace Evaluate + scikit-learn integration docs. |
-| **[scikit-learn](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Acomments-desc)**, **[imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn/pulls?q=is%3Apr+is%3Aclosed+author%3Aawinml)** | Out-of-bag scores for Gradient Boosting; sparse matrix support for Silhouette Score; multi-class Average Precision (One-vs-Rest). |
+- **[Haystack](https://github.com/deepset-ai/haystack/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Aupdated-desc)** - Built the Haystack evaluation framework (`eval`, `EvaluationResult`, `calculate_metrics`) and four metrics (EM, F1, SAS, MRR); added HuggingFace TEI Embedders and a sentence-transformer Diversity Ranker.
+- **[MTEB](https://github.com/embeddings-benchmark/mteb/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Aupdated-desc)** - Added the complete LegalBench Benchmark (160+ legal classification and retrieval datasets) and four Japanese benchmarks (JMTEB Clustering, JSICK, JaGovFaqs, NLPJournal).
+- **[Haystack Core Integrations](https://github.com/deepset-ai/haystack-core-integrations/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Aupdated-desc)** - Implemented INSTRUCTOR Embedders, Optimum Embedders (ONNX runtime), Llama.cpp Generator, Pinecone Document Store, and Cohere V3 Embed model support.
+- **[HuggingFace Transformers](https://github.com/huggingface/transformers/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Acomments-desc)**, **[Evaluate](https://github.com/huggingface/evaluate/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed)** - `BioGPTForSequenceClassification` and Trainer-free ViT pre-training scripts in Transformers; scikit-learn integration guides in Evaluate.
+- **[scikit-learn](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+author%3Aawinml+is%3Aclosed+sort%3Acomments-desc)**, **[imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn/pulls?q=is%3Apr+is%3Aclosed+author%3Aawinml)** - Three core scikit-learn features: OOB fitted scores for Gradient Boosting, sparse-matrix support for `silhouette_samples`, and multiclass `average_precision_score`.
+- **[voyage-embedders-haystack](https://github.com/awinml/voyage-embedders-haystack)** - Full Haystack integration for Voyage AI: text/document embedders, reranker, multimodal embeddings, and contextualized chunk embeddings; published on PyPI.
 
 ### Publications
 
