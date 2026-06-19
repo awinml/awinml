@@ -25,6 +25,7 @@ I work on LLM systems for domain-specific applications in Finance, Bio-Medical, 
 
 | Repository | Description |
 |---|---|
+| [**Agentic GraphRAG for Medical Diagnosis**](https://github.com/avnlp/agentic-med-diag) | Builds a Neo4j knowledge graph via three-extractor fusion (GLiNER/GLiREL/LLM), two-stage entity resolution, and hierarchical Leiden communities, then answers diagnostic questions through multi-strategy retrieval and a DeepAgents plan–research–verify loop, powered by LangGraph, BAML, and ZeroEntropy reranking. |
 | [**RAG Pipelines**](https://github.com/avnlp/rag-pipelines) | Domain-specific RAG pipelines combining LangGraph orchestration, BAML structured generation, Milvus Hybrid Search, 3-layer metadata enrichment, and instruction-following rerankers for Medical and Financial QA. |
 | [**DSPy Optimizers**](https://github.com/avnlp/dspy-opt) | DSPy RAG optimization with Weaviate Hybrid Search, Query Rewriting, Sub-Query Decomposition using MIPROv2/COPRO/BootstrapFewShot optimizers on FreshQA, HotpotQA, TriviaQA, and PubMedQA. |
 | [**VectorDB**](https://github.com/avnlp/vectordb) | Haystack and LangChain retrieval pipelines spanning Dense/Sparse/Hybrid search, Reranking, Parent-Child Retrieval, Query Enhancement, and Multi-Tenancy across Pinecone, Weaviate, Milvus, Qdrant, and Chroma. |
