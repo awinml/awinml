@@ -8,9 +8,9 @@
 [Email](mailto:ashwinmathur.business@gmail.com)
 </div>
 
-I work on LLM systems for domain-specific applications in Finance, Bio-Medical, and Legal AI, spanning retrieval, agents and model training. I've contributed to Haystack, MTEB, HuggingFace, and scikit-learn, and co-authored **[MMTEB](https://arxiv.org/abs/2502.13595)**, published at ICLR 2025. Developing open-source AI at [**AVNLP**](https://avnlp.github.io/).
+I work on LLM systems for domain-specific applications in Finance, Bio-Medical, and Legal AI, spanning retrieval, agents and model training. I've contributed to Haystack, MTEB, HuggingFace, and scikit-learn, and co-authored **[MMTEB](https://arxiv.org/abs/2502.13595)**, published at ICLR 2025.
 
-### Developing Open-Source AI @ [AVNLP](https://avnlp.github.io/)
+### Open-Source AI @ [AVNLP](https://avnlp.github.io/)
 
 #### LLM Training & RL Alignment
 
