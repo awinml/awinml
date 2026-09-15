@@ -5,12 +5,22 @@
 **AI Engineer · Agentic RAG & Reranking · LLM Fine-Tuning & RL · Domain-Specific AI**
 
 [LinkedIn](https://www.linkedin.com/in/ashwin-mathur-ds/) •
-[Email](mailto:ashwinmathur.business@gmail.com)
+[Email](mailto:ashwinm400@gmail.com)
 </div>
 
 I work on LLM systems for domain-specific applications in Finance, Bio-Medical, and Legal AI, spanning retrieval, agents and model training. I've contributed to Haystack, MTEB, HuggingFace, and scikit-learn, and co-authored **[MMTEB](https://arxiv.org/abs/2502.13595)**, published at ICLR 2025.
 
-### Open-Source AI @ [AVNLP](https://avnlp.github.io/)
+### Open-Source AI
+
+#### Retrieval Augmented Generation and Agents
+
+| Repository | Description |
+|---|---|
+| [**Agentic GraphRAG**](https://github.com/ontogr/agentic-graphrag) | Agentic GraphRAG is a modular, schema-driven system for building knowledge graphs from unstructured and structured data, retrieving evidence across graph and vector indexes, and answering questions with agentic reasoning. |
+| [**Agentic GraphRAG for Medical Diagnosis**](https://github.com/avnlp/agentic-med-diag) | Builds a Neo4j knowledge graph via three-extractor fusion (GLiNER/GLiREL/LLM), two-stage entity resolution, and hierarchical Leiden communities, then answers diagnostic questions through multi-strategy retrieval and a DeepAgents plan–research–verify loop, powered by LangGraph, BAML, and ZeroEntropy reranking. |
+| [**RAG Pipelines**](https://github.com/avnlp/rag-pipelines) | Domain-specific RAG pipelines combining LangGraph orchestration, BAML structured generation, Milvus Hybrid Search, 3-layer metadata enrichment, and instruction-following rerankers for Medical and Financial QA. |
+| [**DSPy Optimizers**](https://github.com/avnlp/dspy-opt) | DSPy RAG optimization with Weaviate Hybrid Search, Query Rewriting, Sub-Query Decomposition using MIPROv2/COPRO/BootstrapFewShot optimizers on FreshQA, HotpotQA, TriviaQA, and PubMedQA. |
+| [**VectorDB**](https://github.com/avnlp/vectordb) | Haystack and LangChain retrieval pipelines spanning Dense/Sparse/Hybrid search, Reranking, Parent-Child Retrieval, Query Enhancement, and Multi-Tenancy across Pinecone, Weaviate, Milvus, Qdrant, and Chroma. |
 
 #### LLM Training & RL Alignment
 
@@ -20,15 +30,6 @@ I work on LLM systems for domain-specific applications in Finance, Bio-Medical, 
 | [**RAG Model Training**](https://github.com/avnlp/rag-model-training) | Fine-tuning LLMs for Adaptive-RAG, Corrective RAG, RQ-RAG, Self-RAG, Agentic RAG, and ReZero via SFT and GRPO across finance, biomedical, and open-domain QA. |
 | [**GRPO**](https://github.com/avnlp/grpo) | Four GRPO implementations comparing format/correctness rewards, DeepSpeed vs. PyTorch training, frozen/server/periodic reference models, and vLLM vs. Transformers rollout generation. |
 | [**LLM Finetuning**](https://github.com/avnlp/llm-finetuning) | SFT, DPO, KTO, ORPO, PPO, and GRPO pipelines with QLoRA/LoRA/DoRA/P-Tuning/Prefix-Tuning adapter training across ARC, FactScore, TriviaQA, PopQA, Earnings Calls, and GSM8K. |
-
-#### Retrieval Augmented Generation and Agents
-
-| Repository | Description |
-|---|---|
-| [**Agentic GraphRAG for Medical Diagnosis**](https://github.com/avnlp/agentic-med-diag) | Builds a Neo4j knowledge graph via three-extractor fusion (GLiNER/GLiREL/LLM), two-stage entity resolution, and hierarchical Leiden communities, then answers diagnostic questions through multi-strategy retrieval and a DeepAgents plan–research–verify loop, powered by LangGraph, BAML, and ZeroEntropy reranking. |
-| [**RAG Pipelines**](https://github.com/avnlp/rag-pipelines) | Domain-specific RAG pipelines combining LangGraph orchestration, BAML structured generation, Milvus Hybrid Search, 3-layer metadata enrichment, and instruction-following rerankers for Medical and Financial QA. |
-| [**DSPy Optimizers**](https://github.com/avnlp/dspy-opt) | DSPy RAG optimization with Weaviate Hybrid Search, Query Rewriting, Sub-Query Decomposition using MIPROv2/COPRO/BootstrapFewShot optimizers on FreshQA, HotpotQA, TriviaQA, and PubMedQA. |
-| [**VectorDB**](https://github.com/avnlp/vectordb) | Haystack and LangChain retrieval pipelines spanning Dense/Sparse/Hybrid search, Reranking, Parent-Child Retrieval, Query Enhancement, and Multi-Tenancy across Pinecone, Weaviate, Milvus, Qdrant, and Chroma. |
 
 #### Information Retrieval & Ranking
 
